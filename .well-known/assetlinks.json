@@ -1,8 +1,11 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.sourabhtibbu.nebulaswarm",
-        "sha256_cert_fingerprints": ["13:29:AD:AE:0B:AB:3B:55:5E:9D:E9:5D:66:CE:87:86:DD:90:A4:9A:CC:CF:B6:00:24:FB:CD:BF:48:0D:C8:F3"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.sourabhtibbu.nebulaswarm",
+    "sha256_cert_fingerprints": [
+      "13:29:AD:AE:0B:AB:3B:55:5E:9D:E9:5D:66:CE:87:86:DD:90:A4:9A:CC:CF:B6:00:24:FB:CD:BF:48:0D:C8:F3",
+      "8C:56:DF:29:FD:F0:67:BA:05:9A:53:CA:81:9F:1E:30:DA:EA:49:F1:38:04:0D:8F:0F:3B:DC:75:40:31:28:75"
+    ]
+  }
+}]
